@@ -15,7 +15,7 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 
--- Dumping database structure for db_emocije_m
+-- Dumping database structure for db_emocijej
 DROP DATABASE IF EXISTS `db_emocijej`;
 CREATE DATABASE IF NOT EXISTS `db_emocijej` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
 USE `db_emocijej`;

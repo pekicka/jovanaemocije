@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="MySqlTest1" time="0.848" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="MySqlTest1" time="0.846" tests="1" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="19"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -16,7 +16,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="US"/>
     <property name="sun.boot.library.path" value="C:\Users\Korisnik\.jdks\openjdk-19\bin"/>
-    <property name="sun.java.command" value="C:\Users\Korisnik\AppData\Local\Temp\surefire1794883886947623901\surefirebooter-20240220132451340_3.jar C:\Users\Korisnik\AppData\Local\Temp\surefire1794883886947623901 2024-02-20T13-24-50_547-jvmRun1 surefire-20240220132451340_1tmp surefire_0-20240220132451340_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Korisnik\AppData\Local\Temp\surefire3204970508100092827\surefirebooter-20240227131244161_3.jar C:\Users\Korisnik\AppData\Local\Temp\surefire3204970508100092827 2024-02-27T13-12-43_391-jvmRun1 surefire-20240227131244161_1tmp surefire_0-20240227131244161_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Korisnik\Desktop\jovanaemocije\target\test-classes;C:\Users\Korisnik\Desktop\jovanaemocije\target\classes;C:\Users\Korisnik\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\Korisnik\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\Korisnik\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\Korisnik\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\Korisnik\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.1\junit-jupiter-engine-5.9.1.jar;C:\Users\Korisnik\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;C:\Users\Korisnik\.m2\repository\org\etsntesla\it\RunShellCommand\1.0-SNAPSHOT\RunShellCommand-1.0-SNAPSHOT.jar;C:\Users\Korisnik\.m2\repository\com\mysql\mysql-connector-j\8.3.0\mysql-connector-j-8.3.0.jar;C:\Users\Korisnik\.m2\repository\com\google\protobuf\protobuf-java\3.25.1\protobuf-java-3.25.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Korisnik\AppData\Local\Temp\surefire1794883886947623901\surefirebooter-20240220132451340_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Korisnik\AppData\Local\Temp\surefire3204970508100092827\surefirebooter-20240227131244161_3.jar"/>
     <property name="user.script" value=""/>
     <property name="user.script.format" value="Cyrl"/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
@@ -62,5 +62,5 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="63.0"/>
   </properties>
-  <testcase name="test" classname="MySqlTest1" time="0.026"/>
+  <testcase name="test" classname="MySqlTest1" time="0.042"/>
 </testsuite>
